@@ -17,7 +17,7 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('https://pixabay.com/videos/flash-explosion-wave-smoke-213406/');
+    background-image: url('images/213406_small.mp4');
     height: 25vh;
     background-size: cover;
     background-position: center;
@@ -37,7 +37,8 @@ img {
 
 /* nice big font on a banner style background */
 .topic-title{
-    color: rgba(23, 198, 221, 0.788);
+    color: rgba(30, 207, 193, 0.788);
+    
     font-size: 2em;
     padding: 0.1em 3em;
     background-color: rgb(19, 187, 209);
